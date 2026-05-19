@@ -40,10 +40,8 @@ An interactive dashboard was designed to bridge the gap between technical models
 * **Scouting Analytics:** Enabled quick filtering by club, nationality, potential, and value.
 * **Model Presentation:** Clear graphs highlighting the most impactful attributes driving player value.
 
-### 📷 Dashboard & Colab Preview
+### 📷 Dashboard
 ![Power BI Dashboard](dashboard.png)
-![Model Analytics](models_compare.png)
-
 ---
 
 ## 🚀 How to Run the Project
